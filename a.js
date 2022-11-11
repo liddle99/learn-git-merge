@@ -5,4 +5,4 @@ console.log('D');
 console.log('E');
 console.log('F');
 console.log('바보');
-console.log('멍충이');
+console.log('twit');

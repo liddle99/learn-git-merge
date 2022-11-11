@@ -1,6 +1,3 @@
-console.log('this is base branch final');
+console.log('this is test branch');
 
-console.log('test branch')
-
-console.log('stating sqush merge "base"')
-console.log('stating sqush merge "base2"');
+console.log('testing');

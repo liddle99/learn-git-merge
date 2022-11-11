@@ -1,5 +1,5 @@
 console.log('A2');
-console.log('B');
+console.log('B3');
 console.log('C');
 console.log('D');
 console.log('E');

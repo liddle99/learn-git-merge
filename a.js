@@ -4,4 +4,3 @@ console.log('C4');
 console.log('D');
 console.log('E');
 console.log('F');
-console.log('똥멍충이');
